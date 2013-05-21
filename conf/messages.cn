@@ -1,7 +1,7 @@
 # You can specialize this file for each language.
 # For example, for French create a messages.fr file
 
-application.name=运输数据库
+application.name=公共交通模型
 
 # nav-bar
 

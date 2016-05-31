@@ -10,7 +10,7 @@ This is the step by step process:
 
 2. Click on CloudFormation ("Templated AWS Resource Creation") and then on "Create New Stack".
 
-3. Give a name to the stack (for example, `GTFSEditor`) and upload [this template file](../cloudfront/GTFS_Editor_CloudFront.json) to Amazon S3.
+3. Give a name to the stack (for example, `GTFSEditor`) and upload [this template file](https://github.com/brunosan/gtfs-editor/blob/master/cloudformation/GTFS_Editor_CloudFormation-WB.json) to Amazon S3.
 
 4. You can leave the default values for `InstanceType` (the type of EC2 instance) and `IpLocation` (the IP address range that can access this instance), but make sure you select a `KeyName` (existing EC2 KeyPair) to enable access to the instance.
 
